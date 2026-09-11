@@ -1,6 +1,5 @@
 package trainschedule;
 
-/** A named train station and its location. */
 public class Station {
     private String name;
     private Location location;

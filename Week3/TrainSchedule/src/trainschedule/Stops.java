@@ -1,6 +1,5 @@
 package trainschedule;
 
-/** One scheduled stop in a train route. */
 public class Stops {
     private Station stop;
 

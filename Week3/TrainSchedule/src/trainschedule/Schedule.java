@@ -1,6 +1,5 @@
 package trainschedule;
 
-/** A train journey between two stations, with its times, stops, and train type. */
 public class Schedule {
     private Station departure;
     private Station destination;
